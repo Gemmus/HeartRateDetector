@@ -22,3 +22,5 @@ The Crowtail optical sensor detects the heart rate as an analog signal and trans
 From Raspberry Pi Pico the collected peak-to-peak interval data is also transmitted wirelessly to the Kubios Cloud Service, where the data is further analysed to receive the recovery and stress indexes. The outcome of this analysis is then returned to the device and the results are presented through the OLED display for the user along with the locally calculated parameters.
 
 During the measurement, the rotary knob functions as the controller for this operation, that provides the user interaction for the hardware. The user can choose the activity respectively based on to the information displayed on the OLED, such as initialisation or restart of the measurement. 
+
+![image](https://github.com/Gemmus/HeartRateDetector/assets/112064697/490c977d-00bf-4335-b7e6-882ecf23c73b)
