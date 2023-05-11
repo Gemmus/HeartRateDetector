@@ -9,6 +9,10 @@
       <li>OLED (SSD1306)</li>
       <li>Rotary knob</li>
 </ul>
+
+![image](https://github.com/Gemmus/HeartRateDetector/assets/112064697/538d6e63-5668-4adf-b88f-605a50dd781e)
+
+
 <h2> Operating Principle </h2>
 The Crowtail optical sensor detects the heart rate as an analog signal and transmits it to the Raspberry Pico Pi W. This analog signal is converted into digital by the AD-converter of the microcontroller and using own  peak-detection related algorithms, the device is capable of measuring the peak-to-peak interval (PPI) of the heart signal. 
 
