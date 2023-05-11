@@ -10,7 +10,8 @@
       <li>Rotary knob</li>
 </ul>
 
-![image](https://github.com/Gemmus/HeartRateDetector/assets/112064697/538d6e63-5668-4adf-b88f-605a50dd781e)
+![image](https://github.com/Gemmus/HeartRateDetector/assets/112064697/11d28d8e-db03-4a4a-a67b-511f73e9224f)
+
 
 
 <h2> Operating Principle </h2>
