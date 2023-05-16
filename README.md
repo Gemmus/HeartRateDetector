@@ -24,3 +24,5 @@ From Raspberry Pi Pico the collected peak-to-peak interval data is also transmit
 During the measurement, the rotary knob functions as the controller for this operation, that provides the user interaction for the hardware. The user can choose the activity respectively based on to the information displayed on the OLED, such as initialisation or restart of the measurement. 
 
 ![image](https://github.com/Gemmus/HeartRateDetector/assets/112064697/490c977d-00bf-4335-b7e6-882ecf23c73b)
+
+<a href="https://github.com/Gemmus/HeartRateDetector/blob/main/HeartRateDetector_Documentation.pdf">More Information</a>
